@@ -1,0 +1,117 @@
+[Root]
+Most Recent Package=CFIT网易云音乐音乐解析
+
+
+[Package|CFIT网易云音乐音乐解析|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT网易云音乐音乐解析
+
+[Package|CFIT网易云音乐音乐解析|Configure DAO ISAMs]
+Applicable=No
+
+[Package|CFIT网易云音乐音乐解析|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|CFIT网易云音乐音乐解析|Files Found]
+
+[Package|CFIT网易云音乐音乐解析|Files Released]
+
+[Package|CFIT网易云音乐音乐解析|Missing Dependency Information]
+C:\Windows\SysWOW64\shell32.dll=
+
+[Package|CFIT网易云音乐音乐解析|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\COMDLG32.OCX=
+C:\Windows\SysWOW64\RICHTX32.OCX=
+C:\Windows\SysWOW64\MSINET.OCX=
+
+[Package|CFIT网易云音乐音乐解析|Files Added]
+
+[Package|CFIT网易云音乐音乐解析|Files Removed]
+
+[Package|CFIT网易云音乐音乐解析|Files In Project]
+E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT音乐解析.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+F:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\System32\urlmon.dll=Yes
+C:\Windows\System32\wmp.dll=Yes
+C:\Windows\SysWOW64\shell32.dll=Yes
+C:\Windows\SysWOW64\MSINET.OCX=Yes
+C:\Windows\SysWOW64\INETCHS.DLL=Yes
+C:\Windows\SysWOW64\RICHTX32.OCX=Yes
+F:\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+F:\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\Windows\SysWOW64\RCHTXCHS.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGCHS.DLL=Yes
+F:\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+F:\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|CFIT网易云音乐音乐解析|Configure Registry Files]
+Applicable=No
+
+[Package|CFIT网易云音乐音乐解析|Configure Remote Servers]
+Applicable=No
+
+[Package|CFIT网易云音乐音乐解析|Install Locations]
+E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT音乐解析.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+F:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\System32\urlmon.dll=$(WinSysPath)
+C:\Windows\System32\wmp.dll=$(AppPath)
+C:\Windows\SysWOW64\shell32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSINET.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\INETCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\RICHTX32.OCX=$(WinSysPath)
+F:\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+F:\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\RCHTXCHS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHS.DLL=$(WinSysPath)
+F:\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|CFIT网易云音乐音乐解析|Configure Shared Files]
+Applicable=Yes
+E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT音乐解析.exe=Yes
+C:\Windows\System32\wmp.dll=Yes
+
+[Package|CFIT网易云音乐音乐解析|Distribution]
+Type=single
+Size=
+Title=CFIT网易云音乐音乐解析
+
+[Package|CFIT网易云音乐音乐解析|IconGroups]
+Group0=CFIT网易云音乐音乐解析
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|CFIT网易云音乐音乐解析|CFIT网易云音乐音乐解析]
+Icon1=CFIT音乐解析.exe
+Title1=CFIT网易云音乐音乐解析
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|CFIT网易云音乐音乐解析|Package]
+PackageFolder=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT网易云音乐音乐解析
+ProjectFolder=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1
+ServerSideCab=
+File1=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT网易云音乐音乐解析\setup.exe
+File2=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT网易云音乐音乐解析\Setup.Lst
+File3=E:\C盘“我的文件夹”\basic文件\vb音乐解析-1\CFIT网易云音乐音乐解析\CFIT音乐解析.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
